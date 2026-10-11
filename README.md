@@ -9,7 +9,6 @@
 * **Lớp học phần:** Lập trình thiết bị di động (INT4211)
 * **Môi trường thực thi:** Android Studio trên macOS (Apple Silicon)
 * **Thiết bị thử nghiệm:** Máy ảo Pixel 8 (Android 17, API 37.1 – aarch64)
-* **Repository GitHub:** `https://github.com/tuandatdl/A7_231A290089` (Chế độ Private, đã mời giảng viên làm Collaborator)
 
 ---
 
